@@ -1,4 +1,4 @@
-# Metis_Project2_Hospital_LOS
+# Predicting Hospital Length Of Stay
 Regression analysis to predict hospital length of stays
 
 ## Objective: Optimize BIDMC’s resourcing strategy by understand how intake factors can predict hospital Length of Stay (LOS)
