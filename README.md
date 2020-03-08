@@ -8,7 +8,7 @@ Regression analysis to predict hospital length of stays
 * Data Info: https://mimic.physionet.org/mimictables/callout/
 * Wiki for ICD9 Codes: https://en.wikipedia.org/wiki/List_of_ICD-9_codes_001%E2%80%93139:_infectious_and_parasitic_diseases
 
-**Featured Techniques**
+## Featured Techniques
 * EDA
 * Feature Engineering
 * Linear Regression
