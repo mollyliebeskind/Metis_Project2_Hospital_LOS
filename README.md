@@ -1,7 +1,8 @@
 # Predicting Hospital Length Of Stay
 Regression analysis to predict hospital length of stays
 
-## Objective: Optimize BIDMC’s resourcing strategy by understand how intake factors can predict hospital Length of Stay (LOS)
+## Objective: 
+Optimize BIDMC’s resourcing strategy by understand how intake factors can predict hospital Length of Stay (LOS)
 
 ## Data Sources:
 * Database: https://physionet.org/content/mimiciii/1.4/
