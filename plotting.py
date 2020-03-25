@@ -65,4 +65,4 @@ def lineplots(x, y, title, xaxis, yaxis, save=False, rotate=False):
 
     if save:
         plt.savefig(title + '.png')
-    return
+    return 
