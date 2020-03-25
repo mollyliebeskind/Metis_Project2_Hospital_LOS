@@ -1,4 +1,4 @@
-def compressing_admission_type(data):
+def compressing_admission_type(data): 
     eng_data = data
     eng_data.admission_type = eng_data.admission_type.apply(lambda x: 'EMERGENCY' if x == 'URGENT' else x)
     print("Admission type compressed.")
