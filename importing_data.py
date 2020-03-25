@@ -66,4 +66,4 @@ def import_data():
     raw_data_selected_cols = selecting_columns(merged_data)
     print("Files imported.")
     print("Columns selected.")
-    return raw_data_selected_cols
+    return raw_data_selected_cols 
