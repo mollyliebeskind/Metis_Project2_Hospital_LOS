@@ -55,4 +55,4 @@ def add_cols_remove_rows(data):
     removed_daed = removing_dead_subjects(add_age)
     first_visits = isolating_firsts(removed_daed)
     null_dropped = drop_nulls(first_visits)
-    return null_dropped
+    return null_dropped 
