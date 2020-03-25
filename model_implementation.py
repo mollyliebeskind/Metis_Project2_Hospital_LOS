@@ -131,7 +131,7 @@ def SM_OLS_cv(X_train, X_test, y_train, y_test):
 
     #adds column of ones for B_0 constant coefficient
     X_train = add_constant(X_train)
-    kf = KFold(n_splits=10, shuffle=True, random_state = 71)
+    kf = KFold(n_splits=10, shuffle=True, random_state = 71) 
     print("Kfolds created. Running OLS.")
 
     for train_ind, val_ind in kf.split(X_train,y_train):
