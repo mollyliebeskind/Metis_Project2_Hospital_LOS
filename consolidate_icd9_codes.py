@@ -66,4 +66,4 @@ def compress_icd9_codes(data):
     all_numified['diagnoses'] = all_numified.apply(f, axis=1)
     compressed_icd9 = all_numified.drop(columns=['icd9_code'])
     print("ICD9 codes truncated to 17 categories")
-    return compressed_icd9
+    return compressed_icd9 
